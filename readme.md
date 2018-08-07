@@ -1,5 +1,5 @@
 # Microsoft Azure IoT SDK for Node.js
-[![Build status](https://azure-iot-sdks.visualstudio.com/azure-iot-sdks/_apis/build/status/integrate-into-repo-node?branchName=master)](https://azure-iot-sdks.visualstudio.com/azure-iot-sdks/_build/latest?definitionId=8)
+[![Build status](https://azure-iot-sdks.visualstudio.com/azure-iot-sdks/_apis/build/status/integrate-into-repo-node?branchName=master)]
 
 This repository contains the following SDKs:
 * **Azure IoT Hub Device SDK**: to connect devices to Azure IoT Hub. [API Reference][node-api-device-reference]
